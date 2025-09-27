@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // Base URL for our backend API
-const API_BASE_URL = 'http://localhost:8080/SeatReservationSystem/api';
+const API_BASE_URL = 'http://localhost:8080/api';
 
 // Create axios instance with base configuration
 const api = axios.create({
