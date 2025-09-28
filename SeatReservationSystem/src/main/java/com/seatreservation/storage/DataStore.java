@@ -1,6 +1,6 @@
 package com.seatreservation.storage;
 
-import com.seatreservation.model.*;
+import com.seatreservation.models.*;
 import java.util.ArrayList;
 import java.util.List;
 

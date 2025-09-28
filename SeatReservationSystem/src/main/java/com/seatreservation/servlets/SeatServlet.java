@@ -1,6 +1,6 @@
 package com.seatreservation.servlets;
 
-import com.seatreservation.model.Seat;
+import com.seatreservation.models.Seat;
 import com.seatreservation.storage.DataStore;
 import java.io.IOException;
 import java.io.PrintWriter;

@@ -1,4 +1,4 @@
-package com.seatreservation.model;
+package com.seatreservation.models;
 
 // This class represents a user in our system
 public class User {

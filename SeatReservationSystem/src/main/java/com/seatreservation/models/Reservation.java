@@ -1,4 +1,4 @@
-package com.seatreservation.model;
+package com.seatreservation.models;
 
 // This class represents a reservation made by an intern
 public class Reservation {

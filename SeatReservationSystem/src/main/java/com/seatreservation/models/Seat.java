@@ -1,4 +1,4 @@
-package com.seatreservation.model;
+package com.seatreservation.models;
 
 // This class represents a seat in our office
 public class Seat {
